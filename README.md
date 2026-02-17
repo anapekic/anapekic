@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi, I’m Ana 👋
 
-<!--
-**anapekic/anapekic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+IT student focused on building clean and structured websites using **HTML & CSS**.  
+Currently improving my frontend skills and expanding my portfolio.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Projects
+
+### 🔹 Octahedron Layout
+Static educational layout built with HTML/CSS  
+🔗 https://anapekic.github.io/octahedron-project/
+
+### 🔹 Responsive Form UI
+Dark themed responsive form design  
+🔗 https://anapekic.github.io/responsive-form-ui/
+
+### 🔹 Japan Flag Layout
+Float-based layout with structured content blocks  
+🔗 https://anapekic.github.io/japan-flag-layout/
+
+---
+
+## 🛠 Skills
+- HTML5
+- CSS3
+- Layout (Box Model, Floats)
+- Responsive Design
+
+---
+
+## 📚 Currently Learning
+- Flexbox
+- Modern layout techniques
+- JavaScript basics
+
+---
+
+## 🔗 Connect
+💼 LinkedIn: https://www.linkedin.com/in/ana-peki%C4%87-7a118a3aa/
+
+
